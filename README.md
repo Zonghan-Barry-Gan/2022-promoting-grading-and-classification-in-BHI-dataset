@@ -6,3 +6,5 @@ https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 ## A typo
 A very first notebook named testing set as validation set, and vice versa. This typo was inherited to other notebooks. 
 The actual split is still 70% for training, 21% for testing and 9% for validation during training
+## To cite this code
+This code is released with individual DOI. To cite please include [![DOI](https://zenodo.org/badge/488368161.svg)](https://zenodo.org/badge/latestdoi/488368161)
