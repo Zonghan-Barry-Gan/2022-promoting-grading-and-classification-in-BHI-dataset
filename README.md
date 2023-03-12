@@ -4,4 +4,5 @@ The code in this repository will be released with doi and probably included in a
 ## the BHI dataset
 https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 ## A typo
-A very first notebook named testing set as validation set, and vice versa. This typo was inherited to other notebooks.
+A very first notebook named testing set as validation set, and vice versa. This typo was inherited to other notebooks. 
+The actual split is still 70% for training, 21% for testing and 9% for validation during training
